@@ -1,0 +1,3 @@
+Ashfi;21;20;MALE;098767655;aaa
+Jayed;22;87;MALE;9879676;BB
+Raihan;23;43;MALE;988766;lahflf
