@@ -1,0 +1,7 @@
+Pringles;101;120.0;Food;abc;12-12-12;United States
+Hershey's;102;300.0;Food;bb;12-12-12;United States
+Mojo;103;30.0;Beverages;abc;12-12-12;Bangladesh
+Cushion;104;200.0;Furniture;abc;null;China
+Perfoum;105;500.0;Personal Care;abc;null;France
+Ferrero Rocher;106;2750.0;Food;Ferrero;20-06-2026;United States
+Mirinda;107;30.0;Beverages;Pran;20-06-2024;Bangladesh
