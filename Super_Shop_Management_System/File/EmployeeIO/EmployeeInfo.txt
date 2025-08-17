@@ -1,0 +1,6 @@
+Raihan;103;20;Male;Manager;Banasree;200000
+Rafat ;104;20;Male;Manager;Mirpur;200000
+Ashfi;108;20;Male;Manager;Mirpur;12000
+Jayed;109;23;Male;Manager;Mirpur;12000
+Jessie;110;35;Female;Salesman;Badda;10000
+Jenny;111;35;Female;Salesman;Mirpur;15000
