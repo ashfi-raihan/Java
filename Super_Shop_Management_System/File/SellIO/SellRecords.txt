@@ -1,0 +1,81 @@
+Employee Name: Ashfi
+--------------------------------------
+Customer Name: Saikat
+--------------------------------------
+Product Name     : Hershey's
+Product Id       : 12
+Product Price    : 300.0
+Mnufactured Date : 12-12-12
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Product Name     : Pringles
+Product Id       : 11
+Product Price    : 120.0
+Mnufactured Date : 12-12-12
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Total                       420.0
+*************************************************************
+Employee Name: aa
+--------------------------------------
+Customer Name: 
+--------------------------------------
+Product Name     : Mojo
+Product Id       : 13
+Product Price    : 30.0
+Mnufactured Date : 12-12-12
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Total                       60.0
+*************************************************************
+Employee Name: aaa
+--------------------------------------
+Customer Name: 
+--------------------------------------
+Product Name     : Pringles
+Product Id       : 11
+Product Price    : 1200.0
+Product Quantiy    : 10
+Mnufactured Date : 12-12-12
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Total                       12000.0
+*************************************************************
+Employee Name: Ashfi
+--------------------------------------
+Customer Name: 
+--------------------------------------
+Product Name     : Pringles
+Product Id       : 101
+Product Price    : 120.0
+Product Quantiy    : 1
+Mnufactured Date : 12-12-12
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Product Name     : Mojo
+Product Id       : 103
+Product Price    : 90.0
+Product Quantiy    : 3
+Mnufactured Date : 12-12-12
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Product Name     : Hershey's
+Product Id       : 102
+Product Price    : 600.0
+Product Quantiy    : 2
+Mnufactured Date : 12-12-12
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Product Name     : Ferrero Rocher
+Product Id       : 106
+Product Price    : 2750.0
+Product Quantiy    : 1
+Mnufactured Date : 20-06-2026
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Total                       3560.0
+*************************************************************
+Employee Name: Jenny
+--------------------------------------
+Customer Name: 
+--------------------------------------
+Product Name     : Pringles
+Product Id       : 101
+Product Price    : 600.0
+Product Quantiy    : 5
+Mnufactured Date : 12-12-12
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Total                       600.0
+*************************************************************
